@@ -13,7 +13,7 @@
         ch_lang: ch_lang {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&kp LEFT_CONTROL &kp LEFT_GUI &kp SPACE>;
+            bindings = <&kp LEFT_CONTROL &kp LEFT_ALT &kp SPACE>;
             label = "CH_LANG";
         };
     };
